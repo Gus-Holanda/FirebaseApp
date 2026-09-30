@@ -87,3 +87,4 @@ class HomePage extends StatelessWidget {
    );
  }
 }
+grep -E "firebase_core|firebase_auth" pubspec.yaml
